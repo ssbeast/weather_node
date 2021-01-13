@@ -5,7 +5,7 @@ Used WeatherStack and MapBox API in project!
 
 To run the project:
 
-1. Clone this repo using `git clone https://github.com/ssbeast/robofriends`
+1. Clone this repo using `git clone https://github.com/ssbeast/weather_node.git`
 2. Run `npm install`
 3. Run `npm start`
 
